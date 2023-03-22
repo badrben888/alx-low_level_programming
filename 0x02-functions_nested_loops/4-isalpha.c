@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _isalpha - oki okskiz
+ * _isalpha - dqzdqzdqzdqzd
  * @c: Description of parameter x
  *
- * Description: Ayyy 
+ * Description: ddzqdqzd
  * section header: Section description)*
  * Return: Description of the returned value
  */
